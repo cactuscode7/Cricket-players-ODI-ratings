@@ -1,7 +1,8 @@
 ODI ratings
 ==============================
 
-A short description of the dashboard.
+The code above creates a streamlit dashboard by scraping data from ICC men rankings page. This project is more of a demonstration to how to create the web applications using streamlit.
+
 
 ## Setting Up Environment
 
